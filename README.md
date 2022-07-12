@@ -29,15 +29,12 @@
 
 
 # 版本支持/Support
-支持11.11.0及以上版本，具体支持版本请激活后在：微博设置-微博猪手-模块-查看支持版本
+支持12.4.2及以上版本，具体支持版本请激活后在：微博设置-微博猪手-模块-查看支持版本
 
 
 # 下载/Download
 
-下载方式1（蓝奏）: 
-https://skyhand.lanzoup.com/b03bwjayf , 密码:wbzs
-
-下载方式2（Github）:
+下载方式（Github）:
 https://github.com/Xposed-Modules-Repo/com.skyhand.sinahelper/releases
 
 
