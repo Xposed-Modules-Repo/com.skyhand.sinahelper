@@ -37,9 +37,7 @@
 下载方式（Github）:
 https://github.com/Xposed-Modules-Repo/com.skyhand.sinahelper/releases
 
-
-# 使用方法/Used
-https://shimo.im/docs/CHJVKkYYtjK6CkKH/
+下载方式（公众号）: 看下面
 
 
 # 交流/Contact
