@@ -1,4 +1,4 @@
-# 微博猪手/WeiboPigHand
+# 微博猪手/WeiboHelper
 
 微博去广告和功能强化~
 
@@ -40,6 +40,6 @@ https://github.com/Xposed-Modules-Repo/com.skyhand.sinahelper/releases
 下载方式（公众号）: 看下面
 
 
-# 交流/Contact
+# 交流/Contact 
 公众号: Skyhand的猪手圈
 
